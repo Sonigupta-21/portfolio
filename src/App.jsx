@@ -27,7 +27,7 @@ const contact = {
 
 const skills = [
   {
-    title: "Frontend",
+    title: 'frontend',
     icon: Layers3,
     items: ["HTML5", "CSS3", "Bootstrap 5", "React.js", "Responsive UI"],
   },
